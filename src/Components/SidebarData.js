@@ -27,21 +27,21 @@ import * as IoIcons from 'react-icons/io';
       path: '/register',
       icon: <IoIcons.IoMdPeople />,
       cName: 'nav-text',
-      visibleOnlyWhenLoggedIn: true  
+        
     },
     {
       title: 'Employee Details',
       path: '/employees',
       icon: <IoIcons.IoMdPeople />,
       cName: 'nav-text',
-      visibleOnlyWhenLoggedIn: true 
+      
     },
     {
       title: 'Team Master',
       path: '/team-master',
       icon: <IoIcons.IoMdPeople />,
       cName: 'nav-text',
-      visibleOnlyWhenLoggedIn: true  
+      
     },
     {
       title: 'Messages',
